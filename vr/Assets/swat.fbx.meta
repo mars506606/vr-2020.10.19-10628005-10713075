@@ -72,8 +72,11 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips:
+  - a01e046171d2d7d4b960115a6251005d
   - 900083cef7168554c8aa9c4cf482f395
+  - 8ad3a2afbd8b73f408b785fbe4910659
   - c53b762a50448d34f86272ee69d59328
+  - 4bda3e3531d356342861072b80ec98e8
   - c90b50dc125dd814eb590d5ed8cc021d
   importAnimation: 1
   humanDescription:
@@ -90,11 +93,11 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   avatarSetup: 0
   additionalBone: 0
